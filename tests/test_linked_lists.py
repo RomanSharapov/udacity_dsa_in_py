@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 from ..linked_lists import Element, LinkedList
 
 
